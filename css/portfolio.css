@@ -1,0 +1,29 @@
+.container {
+  background: beige;
+  border-radius: 10px;
+}
+
+.header-note {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: grey;
+}
+
+.profile-image {
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 20px;
+}
+
+.buttons {
+  transition: 0.3s;
+}
+
+.buttons:hover {
+  background: DeepSkyBlue;
+}
